@@ -85,13 +85,6 @@ Storytelling integrado explicando a lógica da análise.
 
 ---
 
-## 🖼️ Print do Dashboard
-
-impressão-dinâmica.png
-
-
----
-
 
 ## 🚀 Como Abrir o Projeto
 
