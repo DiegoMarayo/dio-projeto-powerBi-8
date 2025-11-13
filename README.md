@@ -88,7 +88,7 @@ Storytelling integrado explicando a lógica da análise.
 
 ## 🚀 Como Abrir o Projeto
 
-1. Baixe o arquivo .pbix
+1. Baixe o arquivo .pbit
 
 
 2. Abra no Power BI Desktop
@@ -121,5 +121,6 @@ Organização visual
 ## 💼 Sobre o Autor
 
 Diego Marayo
+
 Estudante de Engenharia de Software | Foco em Python, SQL e Análise de Dados
-Apaixonado por BI, Data Analytics e resolução de problemas reais através de dados.
+
